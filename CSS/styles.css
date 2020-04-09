@@ -1,6 +1,7 @@
   body {
     background-color: #f2f6f5;
     color: #204051;
+    font-family: consolas;
   }
 
   hr {
@@ -18,5 +19,3 @@
   h3 {
     color: #63707e;
   }
-
-  body
