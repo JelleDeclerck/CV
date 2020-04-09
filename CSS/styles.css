@@ -19,3 +19,17 @@
   h3 {
     color: #63707e;
   }
+
+.head-work {
+  font-style: normal;
+  font-size:12px;
+  color: #63707e;
+}
+a {
+  color: #698474;
+  text-decoration: none;
+}
+a:hover {
+  color: #937d14;
+  text-decoration: underline ;
+}
